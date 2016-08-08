@@ -2,7 +2,7 @@
 
 ## What
 
-This repo contains the list of APIs and/or Tools compatible with [Xee](developer.xee.com).
+This repo contains the list of APIs and/or Tools compatible with [Xee](https://dev.xee.com).
 
 ## Format
 
@@ -18,7 +18,7 @@ If you want to contribute (by adding your service), feel free to **fork** and op
   - `Add %%% service`
   - Where `%%%` is the name of the service
 - description
-  - Describe what your service does and the link it could have with [Xee](xee.com)
+  - Describe what your service does and the link it could have with [Xee](https://www.xee.com)
 - files
   - Modify the [partners](partners.json) file and add yours
 
